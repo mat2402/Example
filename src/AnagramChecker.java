@@ -7,6 +7,8 @@ public class AnagramChecker {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("   ");
 		System.out.println("   ");
+		System.out.println("   ");
+		System.out.println("   ");
 
 		System.out.println("First word: ");
 		String firstWord = scanner.next();
